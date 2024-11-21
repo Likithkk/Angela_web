@@ -1,0 +1,14 @@
+1)API -> application programming interfaces
+2)API is set of commands,functions,protocols and objects
+  that programmers can use to create a software or interact
+  with external system
+3)to interact with external server our server sends request through
+  API an recieve response through it 
+4)Endpoints  Paths  Parameters  Authentication
+    https://v2.jokeapi.dev/joke/Dark?contains=debugging
+    /Dark is Endpoint ?contains is Parameter
+5)JSON-> Java Script Object Notation
+6)When we search the browser it send a GET request to server
+    and we recieve data through GET response
+7)JSON.parse() is used to to open object to do the reverse use
+JSON.stringify()
